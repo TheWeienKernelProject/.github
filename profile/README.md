@@ -1,5 +1,5 @@
 ## TheWeienKernelProject
-That's a Android Kernel Project for some devices
+That's a Android Kernel Project for some devices (Usually Fork Kernel Repo Add Sth 
 
 Contact Us:liuweien339@gmail.com 3580708455@qq.com
 
