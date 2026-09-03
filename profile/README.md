@@ -7,5 +7,6 @@ Website:liuweien339-sys.github.io/TWKP
 
 Want Join Us? pleased contact QQ 3580708455
 
-Newest Changlog
+Newest Changlog:
+
 Project will in 2026.9.3 Support ReKernel for RedmiNote9Pro OnePlusTurbo6X
