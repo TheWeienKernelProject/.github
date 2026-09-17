@@ -10,10 +10,10 @@ Thanks linx3141
 
 网站Website:liuweien339-sys.github.io/TWKP
 
-| 信息 | **一加Turbo6X(PYS110)** | **红米Note9Pro5G** | 
+| 信息 |**一加Turbo6X(PYS110)**|**红米Note9Pro5G(gauguin)**| 
 |------|------------|---------------|
 | 是否活跃 | 活跃 | 活跃 |
-| 更新频率 | 经常更新 | 一段时间更一次 |
+| 更新频率 | 经常更新 | 一段时间更一次   |
 | Root方案 | 由于耗电问题 无 | ReSukiSU-susfs |
 | 测试方案 | 实机测试 | 无法测试 |
 
