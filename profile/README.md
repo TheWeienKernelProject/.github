@@ -10,6 +10,18 @@ Thanks linx3141
 
 网站Website:liuweien339-sys.github.io/TWKP
 
+鸣谢名单
+
+ReSukiSU - @ReSukiSU
+
+NonGKI_Kernel_Build_2nd @JackA1ltman
+
+ReKernel @Sakion-Team
+
+DroidSpaces @ravindu644
+
+NoMount @maxsteeel
+
 | 信息 |**一加Turbo6X(PYS110)**|**红米Note9Pro5G(gauguin)**| 
 |------|------------|---------------|
 | 是否活跃 | 活跃 | 活跃 |
@@ -18,3 +30,5 @@ Thanks linx3141
 | 测试方案 | 实机测试 | 无法测试 |
 
 *基础附加:DroidSpaces 因启动原因 其他配置根据设备而定 
+
+
