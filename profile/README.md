@@ -22,12 +22,12 @@ DroidSpaces @ravindu644
 
 NoMount @maxsteeel
 
-| 信息 |**一加Turbo6X(PYS110)**|**红米Note9Pro5G(gauguin)**| 
+| 信息 |**一加Turbo6X(PYS110)**|**n**| 
 |------|------------|---------------|
-| 是否活跃 | 活跃 | 活跃 |
-| 更新频率 | 经常更新 | 一段时间更一次   |
-| Root方案 | 由于耗电问题 无 | ReSukiSU-susfs |
-| 测试方案 | 实机测试 | 无法测试 |
+| 是否活跃 | 活跃 | n |
+| 更新频率 | 经常更新 | n  |
+| Root方案 | 一个分支无 一个resukisu-susfs | n |
+| 测试方案 | 实机测试 | n |
 
 *基础附加:DroidSpaces 因启动原因 其他配置根据设备而定 
 
